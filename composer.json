@@ -2,7 +2,7 @@
 	"repositories": {
 		"local": {
 			"type": "path",
-			"url": "/mnt/c/users/kmiec/Projects/*"
+			"url": "/var/www/extensions/*"
 		},
 		"0": {
 			"type": "composer",
@@ -42,8 +42,8 @@
 		"typo3/cms-t3editor": "^10.4",
 		"typo3/cms-tstemplate": "^10.4",
 		"typo3/cms-viewpage": "^10.4",
-		"kitodo/presentation": "dev-update-ol",
-		"slub/dfgviewer": "dev-master"
+		"kitodo/presentation": "dev-sprint",
+		"slub/dfgviewer": "dev-sprint"
 	},
     "minimum-stability": "dev",
 	"prefer-stable": true,
